@@ -75,6 +75,24 @@ Odaklandığım başlıca konular:
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Smart%20Home-18BCF2?logo=homeassistant&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Automation-412991)
 
+
+---
+
+## ⭐ Öne Çıkan Projeler
+
+| Proje | Durum | Alan |
+|---|---|---|
+| **GülerBilişim Web & Dijital Altyapı** | 🟢 Aktif | Web / Hosting / Domain |
+| **eSerdaR Developer Portfolio** | 🟢 Aktif | Kişisel Marka / SEO |
+| **Online Sınav & Soru Bankası Sistemi** | 🟡 Geliştiriliyor | Education Tech / SaaS |
+| **İlanYeni** | 🟠 MVP / Planlama | Marketplace / Directory |
+| **Home Assistant & IoT Toolkit** | 🟡 Geliştiriliyor | IoT / Smart Home |
+| **3D Printing Production Toolkit** | 🟡 Geliştiriliyor | 3D Printing / Maker |
+| **Sürücü Kursu Eğitim Araçları** | 🟠 Planlanıyor | Education Technology |
+| **AI & Automation Lab** | 🔵 Deneysel | AI / Automation |
+
+📌 Ayrıntılı proje listesi ve geliştirme durumları için: **[PROJECTS.md](PROJECTS.md)**
+
 ---
 
 ## 📂 Proje Kategorileri
