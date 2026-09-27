@@ -1,91 +1,54 @@
 # eSerdaR Projects
 
-Bu dosya, **eSerdaR / Serdar Güler / GülerBilişim** tarafından geliştirilen veya aktif olarak planlanan yazılım projelerinin merkezi proje indeksidir.
+Bu dosya, **eSerdaR / Serdar Güler / GülerBilişim** tarafından geliştirilen, geliştirilen veya planlanan projeleri 7 ana kategori altında toplar.
 
-## 01 — GülerBilişim Web & Dijital Altyapı
+## 🌐 1. Web & Yazılım
 
+### GülerBilişim Web & Dijital Altyapı
 **Durum:** 🟢 Aktif  
-**Kategori:** Web Development / Web Infrastructure  
 **Teknolojiler:** PHP, HTML, CSS, JavaScript, WordPress, Hosting, Domain, SSL
 
-GülerBilişim'in kurumsal web varlığı, müşteri web projeleri, hosting, domain ve SSL altyapı süreçlerini kapsayan çalışma alanıdır.
+GülerBilişim'in kurumsal web varlığı, müşteri projeleri, hosting, domain ve SSL altyapı süreçlerini kapsar.
 
-**Odak:**
-- Kurumsal web siteleri
-- Yönetim panelleri
-- Hosting ve domain yönetimi
-- SSL ve web güvenliği
-- Müşteri proje yönetimi
-
-🌐 https://gulerbilisim.com
-
----
-
-## 02 — eSerdaR / Serdar Güler Developer Portfolio
-
+### eSerdaR / Serdar Güler Developer Portfolio
 **Durum:** 🟢 Aktif  
-**Kategori:** Personal Brand / Developer Portfolio  
 **Teknolojiler:** Web, SEO, GitHub, Content Architecture
 
-Serdar Güler'in **eSerdaR** dijital kimliği altında geliştirdiği yazılım, otomasyon, IoT ve 3D üretim projelerini tek merkezde toplayan kişisel geliştirici portföyü.
+Serdar Güler'in **eSerdaR** dijital kimliği altında geliştirdiği teknik portföy ve proje vitrini.
 
-**Odak:**
-- Teknik portföy
-- Proje vitrinleri
-- SEO uyumlu kişisel marka
-- Teknik blog içerikleri
-- GitHub entegrasyonu
-
-🌐 https://serdarguler.com
-
----
-
-## 03 — Online Sınav & Soru Bankası Sistemi
-
-**Durum:** 🟡 Geliştiriliyor  
-**Kategori:** Education Technology / SaaS  
-**Teknolojiler:** PHP, MySQL, JavaScript, REST API, AI Integration
-
-Özel güvenlik, sürücü kursu ve farklı eğitim alanları için kullanılabilecek online sınav ve soru bankası platformu.
-
-**Planlanan Modüller:**
-- Üyelik sistemi
-- Kayıtlı / kayıtsız sınav çözme
-- Soru yönetimi
-- Kategori ve ders yönetimi
-- Sınav sonuç analizi
-- Ödeme altyapısı
-- Yapay zekâ destekli başarı analizi
-- Yönetici paneli
-
----
-
-## 04 — İlanYeni
-
+### İlanYeni
 **Durum:** 🟠 Planlama / MVP  
-**Kategori:** Marketplace / Directory Platform  
 **Teknolojiler:** PHP, MySQL, JavaScript, API
 
-İlan, firma ve hizmetlerin kategorize edilerek yayınlanabileceği ölçeklenebilir web platformu.
-
-**Planlanan Özellikler:**
-- Firma ve kullanıcı profilleri
-- Kategori bazlı ilan sistemi
-- Arama ve filtreleme
-- Konum bazlı listeleme
-- Yönetim paneli
-- Üyelik paketleri
-- Öne çıkarılmış ilanlar
+İlan, firma ve hizmetlerin kategorize edilerek yayınlanabileceği web platformu.
 
 ---
 
-## 05 — Home Assistant & IoT Toolkit
+## 🤖 2. Otomasyon & Yapay Zekâ
 
+### AI & Automation Lab
+**Durum:** 🔵 Deneysel  
+**Teknolojiler:** AI APIs, Automation, Webhooks, PHP, JavaScript
+
+Yapay zekâ destekli içerik, müşteri hizmetleri ve iş süreçleri otomasyonlarının test edildiği proje alanı.
+
+**Odak:**
+- Otomatik içerik üretimi
+- Sosyal medya iş akışları
+- AI destekli belge analizi
+- Web form otomasyonları
+- API tabanlı botlar
+- Tekrarlayan işlerin otomasyonu
+
+---
+
+## 🏠 3. IoT & Akıllı Ev
+
+### Home Assistant & IoT Toolkit
 **Durum:** 🟡 Geliştiriliyor  
-**Kategori:** IoT / Smart Home  
 **Teknolojiler:** Home Assistant, Zigbee, MQTT, ESP, YAML
 
-Akıllı ev cihazlarının yönetimi, otomasyon senaryoları ve Home Assistant entegrasyonları için oluşturulan yardımcı yapı ve dokümantasyon projesi.
+Akıllı ev cihazları, otomasyon senaryoları ve Home Assistant entegrasyonları için yardımcı yapı ve dokümantasyon projesi.
 
 **Odak:**
 - Zigbee cihaz yönetimi
@@ -93,61 +56,57 @@ Akıllı ev cihazlarının yönetimi, otomasyon senaryoları ve Home Assistant e
 - Sensör otomasyonları
 - Enerji takibi
 - Kamera ve ağ otomasyonları
-- Tekrar kullanılabilir Home Assistant yapılandırmaları
 
 ---
 
-## 06 — 3D Printing Production Toolkit
+## 🖨️ 4. 3D Baskı & Üretim
 
+### 3D Printing Production Toolkit
 **Durum:** 🟡 Geliştiriliyor  
-**Kategori:** 3D Printing / Maker Tools  
 **Teknolojiler:** FDM, Bambu Lab, STL, Slicer Workflows
 
-3D yazıcı üretim süreçlerini daha verimli hale getirmek için geliştirilen araç, dokümantasyon ve üretim iş akışları.
-
-**Odak:**
-- Baskı maliyet hesaplama
-- Filament tüketim takibi
-- TPU / PLA / PETG üretim notları
-- Fonksiyonel parça üretimi
-- Baskı süresi ve maliyet analizi
-- Sipariş üretim süreçleri
+3D baskı üretim süreçleri, baskı maliyeti, filament takibi ve fonksiyonel parça üretimi için geliştirilen araç ve dokümantasyon seti.
 
 ---
 
-## 07 — Sürücü Kursu Eğitim Araçları
+## 🚗 5. Sürücü Kursu & Eğitim
 
+### Online Sınav & Soru Bankası Sistemi
+**Durum:** 🟡 Geliştiriliyor  
+**Teknolojiler:** PHP, MySQL, JavaScript, REST API, AI Integration
+
+Özel güvenlik, sürücü kursu ve farklı eğitim alanları için online sınav ve soru bankası platformu.
+
+### Sürücü Kursu Eğitim Araçları
 **Durum:** 🟠 Planlanıyor  
-**Kategori:** Education Technology  
 **Teknolojiler:** Web, PHP, JavaScript, Interactive Learning
 
 Motor ve araç tekniği, trafik ve sürücü eğitimi için dijital eğitim içerikleri ve sınav araçları.
 
-**Planlanan Modüller:**
-- Motor ve araç tekniği konu anlatımı
-- Görsel soru sistemi
-- Deneme sınavları
-- Öğrenci ilerleme takibi
-- Eğitmen paneli
-- Mobil uyumlu ders içerikleri
+---
+
+## 🧰 6. Araçlar & Yardımcı Scriptler
+
+Bu kategori; küçük web araçları, dönüştürücüler, yönetim araçları, otomasyon yardımcıları ve tekrar kullanılabilir scriptler için ayrılmıştır.
+
+**Planlanan örnekler:**
+- Görsel optimizasyon araçları
+- Dosya dönüştürücüler
+- API yardımcı scriptleri
+- Yönetim paneli yardımcıları
+- Veri işleme araçları
 
 ---
 
-## 08 — AI & Automation Lab
+## 🗄️ 7. Arşiv / Deneysel
 
-**Durum:** 🔵 Deneysel  
-**Kategori:** AI / Automation  
-**Teknolojiler:** AI APIs, Automation, Webhooks, PHP, JavaScript
+Eski sürümler, test projeleri, prototipler ve aktif geliştirmesi durdurulan çalışmalar burada tutulur.
 
-Yapay zekâ destekli içerik, müşteri hizmetleri ve iş süreçleri otomasyonlarının test edildiği deneysel proje alanı.
-
-**Deneyler:**
-- Otomatik içerik üretimi
-- Sosyal medya iş akışları
-- AI destekli belge analizi
-- Web form otomasyonları
-- API tabanlı botlar
-- Tekrarlayan işlerin otomasyonu
+**Kullanım amacı:**
+- Deneysel kodları ana projelerden ayırmak
+- Eski sürümleri saklamak
+- Proof-of-concept çalışmalarını belgelemek
+- Tamamlanmamış fikirleri arşivlemek
 
 ---
 
@@ -164,4 +123,4 @@ Yapay zekâ destekli içerik, müşteri hizmetleri ve iş süreçleri otomasyonl
 ---
 
 **eSerdaR — Serdar Güler**  
-**GülerBilişim | Web • Software • Automation • AI • IoT • 3D Printing**
+**GülerBilişim | Web • Yazılım • Otomasyon • AI • IoT • 3D Baskı**
