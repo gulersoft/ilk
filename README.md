@@ -100,22 +100,22 @@ Odaklandığım başlıca konular:
 ### 🌐 Web & Yazılım
 Kurumsal web siteleri, PHP projeleri, web tabanlı yönetim panelleri, müşteri projeleri ve API entegrasyonları.
 
-### 🤖 Yapay Zekâ & Otomasyon
+### 🤖 Otomasyon & Yapay Zekâ
 Yapay zekâ destekli sistemler, otomatik içerik süreçleri, iş akışları, botlar ve tekrar eden işleri azaltan çözümler.
 
-### 🏠 IoT & Home Assistant
+### 🏠 IoT & Akıllı Ev
 Home Assistant, Zigbee, ESP, sensör, röle, akıllı ev ve enerji takibi projeleri.
 
 ### 🖨️ 3D Baskı & Üretim
 3D yazıcı, FDM üretim, fonksiyonel parça, prototipleme ve üretim süreçleri.
 
-### 🚗 Sürücü Kursu & Eğitim Yazılımları
+### 🚗 Sürücü Kursu & Eğitim
 Motor ve araç tekniği, trafik eğitimi, online sınav sistemleri, soru bankaları ve eğitim platformları.
 
 ### 🧰 Araçlar & Yardımcı Scriptler
 Web araçları, dönüştürücüler, küçük otomasyon scriptleri ve tekrar kullanılabilir yardımcı kodlar.
 
-### 🗄️ Arşiv & Deneysel
+### 🗄️ Arşiv / Deneysel
 Test, prototip, eski sürüm veya aktif geliştirmesi durdurulmuş projeler.
 
 ---
